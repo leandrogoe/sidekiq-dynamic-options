@@ -1,2 +1,2 @@
-# sidekiq-dynamic-options
-A gem to enable the override of sidekiq options worker dynamically
+# Sidekiq Dynamic Options
+Dynamic options for you Sidekiq jobs.
