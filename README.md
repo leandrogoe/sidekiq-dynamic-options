@@ -1,2 +1,2 @@
 # Sidekiq Dynamic Options
-Dynamic options for you Sidekiq jobs.
+Dynamic options for your Sidekiq jobs.
